@@ -1,0 +1,11 @@
+# hashcat
+
+## site web
+https://hashcat.net/hashcat/
+
+## commandes
+hashcat -a 0 -m 
+
+
+## dictionnaires 
+
