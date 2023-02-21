@@ -1,5 +1,14 @@
 # hashcat
 
+
+## IMPORTANT
+Il est possible de lancer hashcat (windows) à partir de wsl (donc  linux !!!).
+
+```
+pmorry@Alienware:cd /mnt/c/my programmes/hashcat-6.2.6
+pmorry@Alienware:/mnt/c/my programmes/hashcat-6.2.6$ hashcat.exe -b -d 1
+```
+
 ## site web
 https://hashcat.net/hashcat/
 
